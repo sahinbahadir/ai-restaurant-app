@@ -1,0 +1,370 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "categoryId": 1,
+            "foodName": "Süzme Mercimek Çorbası",
+            "imagePath": "suzme_mercimek_corba.jpg"
+        },
+        {
+            "id": 2,
+            "categoryId": 2,
+            "foodName": "Kızartma İçli Köfte (Adet)",
+            "imagePath": "icli_kofte.jpg"
+        },
+        {
+            "id": 3,
+            "categoryId": 3,
+            "foodName": "Adana Kebap",
+            "imagePath": "adana_kebap.jpg"
+        },
+        {
+            "id": 4,
+            "categoryId": 3,
+            "foodName": "Urfa Kebap",
+            "imagePath": "urfa_kebap.jpg"
+        },
+        {
+            "id": 5,
+            "categoryId": 3,
+            "foodName": "Sarma Beyti Kebabı",
+            "imagePath": "sarma_beyti.jpg"
+        },
+        {
+            "id": 6,
+            "categoryId": 3,
+            "foodName": "Beyti Kebabı",
+            "imagePath": "sarma_beyti.jpg"
+        },
+        {
+            "id": 7,
+            "categoryId": 3,
+            "foodName": "Domatesli Kebap",
+            "imagePath": "domatesli_kebap.jpg"
+        },
+        {
+            "id": 8,
+            "categoryId": 3,
+            "foodName": "Patlıcanlı Kebap",
+            "imagePath": "patlicanli_kebap.jpg"
+        },
+        {
+            "id": 9,
+            "categoryId": 3,
+            "foodName": "Altı Ezmeli Kebap (Kıymadan)",
+            "imagePath": "alti_ezmeli.jpg"
+        },
+        {
+            "id": 10,
+            "categoryId": 3,
+            "foodName": "Altı Ezmeli Kebap (Şişten)",
+            "imagePath": "alti_ezmeli.jpg"
+        },
+        {
+            "id": 11,
+            "categoryId": 3,
+            "foodName": "Alinazik Kebap (Şişten)",
+            "imagePath": "ali_nazik.jpg"
+        },
+        {
+            "id": 12,
+            "categoryId": 3,
+            "foodName": "Alinazik Kebap (Kıymadan)",
+            "imagePath": "ali_nazik.jpg"
+        },
+        {
+            "id": 13,
+            "categoryId": 3,
+            "foodName": "Sac Kavurma",
+            "imagePath": "sac_kavurma.jpg"
+        },
+        {
+            "id": 14,
+            "categoryId": 3,
+            "foodName": "Yoğurtlu Kebap",
+            "imagePath": "yogurtlu_antep_kebabi.jpg"
+        },
+        {
+            "id": 15,
+            "categoryId": 3,
+            "foodName": "Yoğurtlu Antep Kebabı",
+            "imagePath": "yogurtlu_antep_kebabi.jpg"
+        },
+        {
+            "id": 16,
+            "categoryId": 3,
+            "foodName": "Ali Haydar Kebabı",
+            "imagePath": "ali_haydar_kebap.jpg"
+        },
+        {
+            "id": 17,
+            "categoryId": 3,
+            "foodName": "Karışık Kebap",
+            "imagePath": "karisik_kebap.jpg"
+        },
+        {
+            "id": 18,
+            "categoryId": 4,
+            "foodName": "Tavuk Pirzola",
+            "imagePath": "tavuk_pirzola.jpg"
+        },
+        {
+            "id": 19,
+            "categoryId": 4,
+            "foodName": "Tavuk Kanat",
+            "imagePath": "kanat.jpg"
+        },
+        {
+            "id": 20,
+            "categoryId": 4,
+            "foodName": "Tavuk Şiş",
+            "imagePath": "tavuk_sis.jpg"
+        },
+        {
+            "id": 21,
+            "categoryId": 4,
+            "foodName": "Çöp Şiş",
+            "imagePath": "cop_sis.jpg"
+        },
+        {
+            "id": 22,
+            "categoryId": 4,
+            "foodName": "Kuzu Şiş",
+            "imagePath": "kuzu_sis.jpg"
+        },
+        {
+            "id": 23,
+            "categoryId": 4,
+            "foodName": "Izgara Köfte",
+            "imagePath": "izgara_kofte.jpg"
+        },
+        {
+            "id": 24,
+            "categoryId": 5,
+            "foodName": "Adana Dürüm",
+            "imagePath": "adana_durum.jpg"
+        },
+        {
+            "id": 25,
+            "categoryId": 5,
+            "foodName": "Urfa Dürüm",
+            "imagePath": "urfa_durum.jpg"
+        },
+        {
+            "id": 26,
+            "categoryId": 5,
+            "foodName": "Kuzu Şiş Dürüm",
+            "imagePath": "kuzu_sis_durum.jpg"
+        },
+        {
+            "id": 27,
+            "categoryId": 5,
+            "foodName": "Tavuk Şiş Dürüm",
+            "imagePath": "tavuk_sis_durum.jpg"
+        },
+        {
+            "id": 28,
+            "categoryId": 5,
+            "foodName": "Çöp Şiş Dürüm",
+            "imagePath": "cop_sis_durum.jpg"
+        },
+        {
+            "id": 29,
+            "categoryId": 5,
+            "foodName": "Ali Haydar Dürüm",
+            "imagePath": "ali_haydar_durum.jpg"
+        },
+        {
+            "id": 30,
+            "categoryId": 5,
+            "foodName": "Şefin Dürümü (Spesiyal)",
+            "imagePath": "sefin_durumu.jpg"
+        },
+        {
+            "id": 31,
+            "categoryId": 6,
+            "foodName": "Kaşarlı Pide",
+            "imagePath": "kasarli_pide.jpg"
+        },
+        {
+            "id": 32,
+            "categoryId": 6,
+            "foodName": "Kıymalı Pide",
+            "imagePath": "kiymali_pide.jpg"
+        },
+        {
+            "id": 33,
+            "categoryId": 6,
+            "foodName": "Kuşbaşılı Pide",
+            "imagePath": "kusbasili_pide.jpg"
+        },
+        {
+            "id": 34,
+            "categoryId": 6,
+            "foodName": "Kuşbaşılı Kaşarlı Pide",
+            "imagePath": "kusbasili_kasarli_pide.jpg"
+        },
+        {
+            "id": 35,
+            "categoryId": 6,
+            "foodName": "Kavurmalı Pide",
+            "imagePath": "kavurmali_pide.jpg"
+        },
+        {
+            "id": 36,
+            "categoryId": 6,
+            "foodName": "Kaşarlı Sucuklu Pide",
+            "imagePath": "kasarli_sucuklu_pide.jpg"
+        },
+        {
+            "id": 37,
+            "categoryId": 6,
+            "foodName": "Karışık Pide",
+            "imagePath": "karisik_pide.jpg"
+        },
+        {
+            "id": 38,
+            "categoryId": 7,
+            "foodName": "Fırın Sütlaç",
+            "imagePath": "firin_sutlac.jpg"
+        },
+        {
+            "id": 39,
+            "categoryId": 8,
+            "foodName": "Coca-Cola (33 cl.)",
+            "imagePath": "cocacola33cl.jpg"
+        },
+        {
+            "id": 40,
+            "categoryId": 8,
+            "foodName": "Coca-Cola Şekersiz (33 cl.)",
+            "imagePath": "cocacolasekersiz33cl.jpg"
+        },
+        {
+            "id": 41,
+            "categoryId": 8,
+            "foodName": "Fanta (33 cl.)",
+            "imagePath": "fanta33cl.jpg"
+        },
+        {
+            "id": 42,
+            "categoryId": 8,
+            "foodName": "Sprite (33 cl.)",
+            "imagePath": "sprite33cl.jpg"
+        },
+        {
+            "id": 43,
+            "categoryId": 8,
+            "foodName": "Cappy (33 cl.)",
+            "imagePath": "cappy33cl.jpg"
+        },
+        {
+            "id": 44,
+            "categoryId": 8,
+            "foodName": "Şalgam Suyu (33 cl.)",
+            "imagePath": "salgamsuyu33cl.jpg"
+        },
+        {
+            "id": 45,
+            "categoryId": 8,
+            "foodName": "Ayran (30 cl.)",
+            "imagePath": "ayran30cl.jpg"
+        },
+        {
+            "id": 46,
+            "categoryId": 8,
+            "foodName": "Soda (20 cl.)",
+            "imagePath": "soda20cl.jpg"
+        },
+        {
+            "id": 47,
+            "categoryId": 1,
+            "foodName": "Tarhana Çorbası",
+            "imagePath": "tarhana_corbasi.jpg"
+        },
+        {
+            "id": 48,
+            "categoryId": 1,
+            "foodName": "Domates Çorbası",
+            "imagePath": "domates_corbasi.jpg"
+        },
+        {
+            "id": 49,
+            "categoryId": 1,
+            "foodName": "Tavuk Suyu Çorbası",
+            "imagePath": "tavuk_suyu_corbasi.jpg"
+        },
+        {
+            "id": 50,
+            "categoryId": 1,
+            "foodName": "Yayla Çorbası",
+            "imagePath": "yayla_corbasi.jpg"
+        },
+        {
+            "id": 51,
+            "categoryId": 7,
+            "foodName": "Baklava",
+            "imagePath": "baklava.jpg"
+        },
+        {
+            "id": 52,
+            "categoryId": 7,
+            "foodName": "Kazandibi",
+            "imagePath": "kazandibi.jpg"
+        },
+        {
+            "id": 53,
+            "categoryId": 7,
+            "foodName": "Fıstıklı Künefe",
+            "imagePath": "fistikli_kunefe.jpg"
+        },
+        {
+            "id": 54,
+            "categoryId": 2,
+            "foodName": "Kuruluk Dolması",
+            "imagePath": "kuruluk_dolmasi.jpg"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Çorbalar",
+            "seoURL": "corbalar"
+        },
+        {
+            "id": 2,
+            "categoryName": "Başlangıçlar",
+            "seoURL": "baslangiclar"
+        },
+        {
+            "id": 3,
+            "categoryName": "Kebaplar",
+            "seoURL": "kebaplar"
+        },
+        {
+            "id": 4,
+            "categoryName": "Izgaralar",
+            "seoURL": "izgaralar"
+        },
+        {
+            "id": 5,
+            "categoryName": "Dürümler",
+            "seoURL": "durumler"
+        },
+        {
+            "id": 6,
+            "categoryName": "Pideler",
+            "seoURL": "pideler"
+        },
+        {
+            "id": 7,
+            "categoryName": "Tatlılar",
+            "seoURL": "tatlilar"
+        },
+        {
+            "id": 8,
+            "categoryName": "İçecekler",
+            "seoURL": "icecekler"
+        }
+    ]
+}
